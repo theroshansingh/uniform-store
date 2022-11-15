@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60d117ea.css",
+    "main.js": "/static/js/main.50a16e23.js",
+    "static/media/logo.png": "/static/media/logo.2a949c5226442f562999.png",
+    "static/media/bcom.jpeg": "/static/media/bcom.63583c634d8df53e5c12.jpeg",
+    "static/media/btech2.jpeg": "/static/media/btech2.a28579dc23a941b6f481.jpeg",
+    "static/media/dphar.jpeg": "/static/media/dphar.a04540b77b09f3bea103.jpeg",
+    "static/media/bphar.jpeg": "/static/media/bphar.8c935df7c0cce571bbe7.jpeg",
+    "static/media/btechf.jpeg": "/static/media/btechf.3d3fcffdbbbe880b0f58.jpeg",
+    "static/media/bphar1.jpeg": "/static/media/bphar1.89d0bf55aa28b4ac0f72.jpeg",
+    "static/media/mba.jpeg": "/static/media/mba.8a6c5963379000aab4f1.jpeg",
+    "static/media/bsc.jpeg": "/static/media/bsc.f0b5c02f9c44e8507576.jpeg",
+    "static/media/bba.jpeg": "/static/media/bba.14e4cdde238b63c51391.jpeg",
+    "static/media/dip.jpeg": "/static/media/dip.d0816a014de9866dcacf.jpeg",
+    "static/media/iti.jpeg": "/static/media/iti.673557362a55ee1ada9a.jpeg",
+    "static/media/bscfinal.jpeg": "/static/media/bscfinal.5a57f9dfd0f74fd2a814.jpeg",
+    "static/media/mscnmca.jpeg": "/static/media/mscnmca.26e240d7c9fdd3844009.jpeg",
+    "static/media/btech1.jpeg": "/static/media/btech1.86f2e39ff0deba096da8.jpeg",
+    "static/media/mca1.jpeg": "/static/media/mca1.f64e8b4562b1079cf2e8.jpeg",
+    "static/media/ladies.jpeg": "/static/media/ladies.66b6d0f6861c89af5f77.jpeg",
+    "static/media/mnavy.jpeg": "/static/media/mnavy.81513927d5434b64596a.jpeg",
+    "index.html": "/index.html",
+    "main.60d117ea.css.map": "/static/css/main.60d117ea.css.map",
+    "main.50a16e23.js.map": "/static/js/main.50a16e23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d117ea.css",
+    "static/js/main.50a16e23.js"
+  ]
+}
